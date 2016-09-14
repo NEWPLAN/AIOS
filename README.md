@@ -10,7 +10,7 @@ This is the basic information about the Firekylin OS and enjoy it.
 
 
 
-<p align="center">The Firekylin Operating System</p>
+# <p align="center">The Firekylin Operating System</p>
 ==============================
 
 FireKylin is a hobby operating system written by Liuxiaofeng. It running on PC environment. It need the Intel CPU i386 or higher.
