@@ -1,8 +1,8 @@
 # <p align="center">Decleartion</p>
 ================================
 >
-<p style="text-indent:2em;">This responsbility is just used for study, and in fact, i just copy the resource code from https://coding.net/u/liuxiaofeng/p/firekylin/git, any concern about the authority please contract me freely, and i will apologize and delete those code if necessary.</p></br>
-From the time i receive my education as an undergraduate student, i make a decision to create a new OS with excellent efficience, and intelligence if possible, four year later, i haven't started it, and now i hope improve the skill and achieve this gold.
+<p style="text-indent:2em">This responsbility is just used for study, and in fact, i just copy the resource code from https://coding.net/u/liuxiaofeng/p/firekylin/git, any concern about the authority please contract me freely, and i will apologize and delete those code if necessary.</p></br>
+<td style="word-break:break-all">From the time i receive my education as an undergraduate student, i make a decision to create a new OS with excellent efficience, and intelligence if possible, four year later, i haven't started it, and now i hope improve the skill and achieve this gold.</td>
 >
 >this is the basic information about the Firekylin OS and enjoy it.
 
