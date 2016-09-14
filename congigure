@@ -1,0 +1,7 @@
+the following tips is a available way for you to compile the resource code.
+
+1: basic and essential tools for building
+
+	make sure that the nasm has been installed on your machine, if not just install it with the following command:
+		sudo apt-get install nasm
+		
