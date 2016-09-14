@@ -12,27 +12,20 @@ From the time i receive my education as an undergraduate student, i make a decis
 
 
 
-                      The Firekylin Operating System
-                      ==============================
+<p align="center">The Firekylin Operating System</p>
+==============================
+>
+FireKylin is a hobby operating system written by Liuxiaofeng. It running on PC environment. It need the Intel CPU i386 or higher.
+Firekylin is very simple now, it just can be bootable. It support multi process, multi user, simple minix file system , simple Unixlink syscall interface, simple C Runtime Library , simple shell and some simple command, such as ls, cat, mkdir, rm, etc.
+Firekylin can boot use a CD-ROM. It use GRUB to load the kenrel and ramdisk. Ramdisk is the root file system, all the operations on it would disappear. 
+Firkeylin is distribute under The Apache License 2.0, see LICENSE.
+>   
+Firekylin only can be compiled on a Linux system. When before compile Firekylin, you should ensure nasm,gcc,ld,make,ar has be installed on your system. You can use command 'make' under the Firekylin soure root directory.
+When you want to make a bootable cdrom, you can use command 'make cdrom', but you should install GRUB2 and xorriso.
+>
+Fireklyin QQ Group:118649440.
+>
+Best wishes!
+>
 
-    FireKylin is a hobby operating system written by Liuxiaofeng. It running
-  on PC environment. It need the Intel CPU i386 or higher.
-    Firekylin is very simple now, it just can be bootable. It support multi 
-  process, multi user, simple minix file system , simple Unixlink syscall 
-  interface, simple C Runtime Library , simple shell and some simple command,
-  such as ls, cat, mkdir, rm, etc.
-    Firekylin can boot use a CD-ROM. It use GRUB to load the kenrel and ramdisk.
-  Ramdisk is the root file system, all the operations on it would disappear. 
-    Firkeylin is distribute under The Apache License 2.0, see LICENSE.
-    
-    Firekylin only can be compiled on a Linux system. When before compile 
-  Firekylin, you should ensure nasm,gcc,ld,make,ar has be installed on your
-  system. You can use command 'make' under the Firekylin soure root directory.
-  When you want to make a bootable cdrom, you can use command 'make cdrom',
-  but you should install GRUB2 and xorriso.
-    
-    Fireklyin QQ Group:118649440.
-
-    Best wishes!
-
-<p align="right">NEWPLAN </br>2016.03.11</p>
+<p align="right">NEWPLAN </br>2016.09.15</p>
