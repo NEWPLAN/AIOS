@@ -32,24 +32,24 @@ QEMU_CASEY=sudo qemu-system-i386 -boot d                          \
 all: complie cdrom hd.img
 
 complie:
-	make -C kernel
-	make -C lib
-	make -C bin
-	make -C test
+	make -C kernel #编译内核
+	make -C lib	#编译系统库
+	make -C bin	#编译系统组件
+	make -C test	#编译测试文件
 	make -C contrib
 	
 cdrom:
 	@make complie 2>&1 > /dev/null
-	@sh script/mkiso.sh
+	@sh script/mkiso.sh	#制作镜像文件
 	
-hd.img:
+hd.img:	#制作硬盘镜像文件
 	@make complie 2>&1 > /dev/null
 	@sh script/mkhdimg.sh
 	
-pdf:
+pdf:	#制作pdf说明文档
 	@sh script/mkpdf.sh
 
-clean:
+clean:	#清理，删除文件
 	@-make clean -C kernel
 	@-make clean -C lib
 	@-make clean -C bin
