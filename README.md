@@ -1,7 +1,7 @@
 # <p align="center">Decleartion</p>
 ================================
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;This responsbility is just used for study, and in fact, i just copy the resource code from <a href="https://coding.net/u/liuxiaofeng/p/firekylin/git">[firekylin]</a>, any concern about the authority please contract me freely, and i will apologize and delete those code if necessary.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;This responsbility is just used for study, and in fact, i just copy the resource code from <a href="https://coding.net/u/liuxiaofeng/p/JunOS/git">[firekylin]</a>, any concern about the authority please contract me freely, and i will apologize and delete those code if necessary.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;This is the basic information about the Firekylin OS and enjoy it.</p>
 
 
